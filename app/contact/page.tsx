@@ -1,5 +1,5 @@
 "use client";
-import { CodeXml, Github, Linkedin, Mail } from "lucide-react";
+import { Code2, Github, Linkedin, Mail } from "lucide-react";
 import Link from "next/link";
 import { Card } from "../components/card";
 import { Navigation } from "../components/nav";
@@ -24,7 +24,7 @@ const socials = [
     handle: "hongquanle98",
   },
   {
-    icon: <CodeXml size={20} />,
+    icon: <Code2 size={20} />,
     href: "https://dev.azure.com/quanlehongit",
     label: "Azure Devops",
     handle: "quanlehongit",

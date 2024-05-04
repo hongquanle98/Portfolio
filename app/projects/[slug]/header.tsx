@@ -1,5 +1,5 @@
 "use client";
-import { ArrowLeft, CodeXml, Eye, Github, Linkedin } from "lucide-react";
+import { ArrowLeft, Code2, Eye, Github, Linkedin } from "lucide-react";
 import Link from "next/link";
 import React, { useEffect, useRef, useState } from "react";
 
@@ -89,7 +89,7 @@ export const Header: React.FC<Props> = ({ project, views }) => {
               />
             </Link>
             <Link target="_blank" href="https://dev.azure.com/quanlehongit">
-              <CodeXml
+              <Code2
                 className={`w-6 h-6 duration-200 hover:font-medium ${
                   isIntersecting
                     ? " text-zinc-400 hover:text-zinc-100"
