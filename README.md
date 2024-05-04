@@ -12,11 +12,11 @@ My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](h
 ## Running Locally
 
 ```sh-session
-git clone https://quanlehongit@dev.azure.com/quanlehongit/Portfolio/_git/Portfolio
+git clone https://github.com/hongquanle98/Portfolio.git
 cd Portfolio
 ```
 
-Create a `.env` file similar to [`.env.example`]().
+Create a `.env` file similar to [`.env.example`](https://github.com/hongquanle98/Portfolio/blob/main/.env.example).
 
 Then install dependencies and run the development server:
 
