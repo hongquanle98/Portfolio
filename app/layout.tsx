@@ -13,11 +13,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "hongquanle.com",
     description: "Fullstack developer",
-    url: "https://hongquanle.com",
+    url: "https://hongquanle.vercel.app/",
     siteName: "hongquanle.com",
     images: [
       {
-        url: "https://hongquanle.com/og.png",
+        url: "https://hongquanle.vercel.app/og.png",
         width: 1920,
         height: 1080,
       },

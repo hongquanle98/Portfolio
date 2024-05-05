@@ -19,13 +19,13 @@ const socials = [
   },
   {
     icon: <Github size={20} />,
-    href: "https://github.com/hongquanle98",
+    href: "https://github.com/hongquanle98/",
     label: "Github",
     handle: "hongquanle98",
   },
   {
     icon: <Code2 size={20} />,
-    href: "https://dev.azure.com/quanlehongit",
+    href: "https://dev.azure.com/quanlehongit/",
     label: "Azure Devops",
     handle: "quanlehongit",
   },
