@@ -6,18 +6,18 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "hongquanle.com",
-    template: "%s | hongquanle.com",
+    default: "hongquanle.info",
+    template: "%s | hongquanle.info",
   },
   description: "Fullstack developer",
   openGraph: {
-    title: "hongquanle.com",
+    title: "hongquanle.info",
     description: "Fullstack developer",
-    url: "https://hongquanle.vercel.app/",
-    siteName: "hongquanle.com",
+    url: "https://hongquanle.info/",
+    siteName: "hongquanle.info",
     images: [
       {
-        url: "https://hongquanle.vercel.app/og.png",
+        url: "https://hongquanle.info/og.png",
         width: 1920,
         height: 1080,
       },
